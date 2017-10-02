@@ -1,5 +1,5 @@
 @tag @hello @newOone @antwan-wimberly
-Feature: Account Holder withdraws cashi
+Feature: Account Holder withdraws cashing
 
   Scenario: Account has sufficient fundsii
    Given the account balance is $100.99
